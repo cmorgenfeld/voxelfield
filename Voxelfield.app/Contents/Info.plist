@@ -12,7 +12,7 @@
 	<key>CFBundleExecutable</key>
 	<string>Voxelfield</string>
 	<key>CFBundleGetInfoString</key>
-	<string>Unity Player version 2017.2.0f3 (46dda1414e51). (c) 2017 Unity Technologies ApS. All rights reserved.</string>
+	<string>Unity Player version 2017.3.0f3 (a9f86dcd79df). (c) 2017 Unity Technologies ApS. All rights reserved.</string>
 	<key>CFBundleIconFile</key>
 	<string>PlayerIcon.icns</string>
 	<key>CFBundleIdentifier</key>
@@ -38,7 +38,7 @@
 	<key>NSPrincipalClass</key>
 	<string>PlayerApplication</string>
 	<key>UnityBuildNumber</key>
-	<string>46dda1414e51</string>
+	<string>a9f86dcd79df</string>
 	<key>LSMinimumSystemVersion</key>
 	<string>10.9.0</string>
 </dict>
